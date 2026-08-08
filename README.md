@@ -3,7 +3,7 @@
 > **VerveAI** is an intelligent, developer-focused career copilot and placement preparation hub featuring a Monaco Coding Lab, interactive Resume AI, webcam Mock Interviews, and comprehensive Career workspaces.
 
 ### 🔗 Quick Links
-* 🌐 **Live Website**: [verveai-prep.vercel.app](https://verveai-prep.vercel.app)
+* 🌐 **Live Website**: [verveai-prep.vercel.app](https://verve-ai-rho.vercel.app/)
 * 🛠️ **Developer Setup Steps**: [GITHUB_GUIDE.md](./GITHUB_GUIDE.md)
 
 ---
